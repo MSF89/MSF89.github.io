@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.09345c60.css",
+    "main.js": "/static/js/main.054ec0cf.js",
+    "static/media/kayak1.jpg": "/static/media/kayak1.0040c46e41b976532729.jpg",
+    "static/media/kayak2.jpg": "/static/media/kayak2.0040c46e41b976532729.jpg",
+    "static/media/kayak3.jpg": "/static/media/kayak3.0040c46e41b976532729.jpg",
+    "static/media/pasarelas.jpg": "/static/media/pasarelas.0040c46e41b976532729.jpg",
+    "static/media/Logo.jpg": "/static/media/Logo.7568b44a67cf080ac7d1.jpg",
+    "index.html": "/index.html",
+    "main.09345c60.css.map": "/static/css/main.09345c60.css.map",
+    "main.054ec0cf.js.map": "/static/js/main.054ec0cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09345c60.css",
+    "static/js/main.054ec0cf.js"
+  ]
+}
