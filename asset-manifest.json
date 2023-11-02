@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.09345c60.css",
-    "main.js": "/static/js/main.bf4f3af2.js",
-    "static/media/kayak1.jpg": "/static/media/kayak1.0040c46e41b976532729.jpg",
-    "static/media/kayak2.jpg": "/static/media/kayak2.0040c46e41b976532729.jpg",
-    "static/media/kayak3.jpg": "/static/media/kayak3.0040c46e41b976532729.jpg",
+    "main.css": "/static/css/main.86724680.css",
+    "main.js": "/static/js/main.988af870.js",
+    "static/media/kayak3.jpg": "/static/media/kayak3.68b98335f4fb6c2aae18.jpg",
+    "static/media/kayak2.jpg": "/static/media/kayak2.16347dd79a9233ad18de.jpg",
     "static/media/pasarelas.jpg": "/static/media/pasarelas.0040c46e41b976532729.jpg",
     "static/media/Logo.jpg": "/static/media/Logo.7568b44a67cf080ac7d1.jpg",
+    "static/media/kayak1.jpg": "/static/media/kayak1.6aa7e913b729731b1838.jpg",
     "index.html": "/index.html",
-    "main.09345c60.css.map": "/static/css/main.09345c60.css.map",
-    "main.bf4f3af2.js.map": "/static/js/main.bf4f3af2.js.map"
+    "main.86724680.css.map": "/static/css/main.86724680.css.map",
+    "main.988af870.js.map": "/static/js/main.988af870.js.map"
   },
   "entrypoints": [
-    "static/css/main.09345c60.css",
-    "static/js/main.bf4f3af2.js"
+    "static/css/main.86724680.css",
+    "static/js/main.988af870.js"
   ]
 }
