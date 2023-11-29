@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.87cfcec2.css",
-    "main.js": "/static/js/main.fb99d32e.js",
+    "main.css": "/static/css/main.9305369d.css",
+    "main.js": "/static/js/main.a7bcd8e7.js",
     "static/media/cerroFrias2.jpg": "/static/media/cerroFrias2.0738c51b800b810e7a9c.jpg",
     "static/media/cerroFrias1.jpg": "/static/media/cerroFrias1.6e842bb5e2af814ee6aa.jpg",
     "static/media/cerroFrias3.jpg": "/static/media/cerroFrias3.1b20e4b210780b13be69.jpg",
@@ -55,11 +55,11 @@
     "static/media/pasarelas3.jpg": "/static/media/pasarelas3.21a9a8c8425e8ae5b3fb.jpg",
     "static/media/pasarelas1.jpg": "/static/media/pasarelas1.fec7a935f0c4b90510ee.jpg",
     "index.html": "/index.html",
-    "main.87cfcec2.css.map": "/static/css/main.87cfcec2.css.map",
-    "main.fb99d32e.js.map": "/static/js/main.fb99d32e.js.map"
+    "main.9305369d.css.map": "/static/css/main.9305369d.css.map",
+    "main.a7bcd8e7.js.map": "/static/js/main.a7bcd8e7.js.map"
   },
   "entrypoints": [
-    "static/css/main.87cfcec2.css",
-    "static/js/main.fb99d32e.js"
+    "static/css/main.9305369d.css",
+    "static/js/main.a7bcd8e7.js"
   ]
 }
