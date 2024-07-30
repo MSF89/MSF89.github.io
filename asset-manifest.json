@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.5a0f24a8.css",
-    "main.js": "/static/js/main.1e13ab11.js",
+    "main.js": "/static/js/main.16de4277.js",
     "static/media/cerroFrias2.jpg": "/static/media/cerroFrias2.0738c51b800b810e7a9c.jpg",
     "static/media/cerroFrias1.jpg": "/static/media/cerroFrias1.6e842bb5e2af814ee6aa.jpg",
     "static/media/cerroFrias3.jpg": "/static/media/cerroFrias3.1b20e4b210780b13be69.jpg",
@@ -46,21 +46,28 @@
     "static/media/cityWalichu1.jpg": "/static/media/cityWalichu1.a0eb4f7e474c38551b26.jpg",
     "static/media/calafateNight2.jpg": "/static/media/calafateNight2.0228f943c0c61ae85bcc.jpg",
     "static/media/morenoSpirit1.jpg": "/static/media/morenoSpirit1.493b8bca66ca7bf84ca3.jpg",
+    "static/media/minitrek1.jpg": "/static/media/minitrek1.a40158f7261f37dfffc9.jpg",
     "static/media/punWa1.jpg": "/static/media/punWa1.ef5ea2298edf4d880a05.jpg",
+    "static/media/safariAzul3.jpg": "/static/media/safariAzul3.ec760fe7a3726b2c1d17.jpg",
     "static/media/calafateNight1.jpg": "/static/media/calafateNight1.65b43f15ecef725869e3.jpg",
     "static/media/calafateNight.jpg": "/static/media/calafateNight.b8229e738931a6aa3dd2.jpg",
     "static/media/todoGlaciares1.jpg": "/static/media/todoGlaciares1.7db658474ee444d223ff.jpg",
+    "static/media/safariAzul.jpg": "/static/media/safariAzul.a802cc44e74bc55ebc1a.jpg",
     "static/media/kayakGlaciar2.jpg": "/static/media/kayakGlaciar2.640ce38eb27365a93c01.jpg",
+    "static/media/minitrek3.jpg": "/static/media/minitrek3.086e3437ecec1e665027.jpg",
     "static/media/terminalCalafate.jpg": "/static/media/terminalCalafate.e0650dd2e4103d1dddf2.jpg",
+    "static/media/minitrek2.jpg": "/static/media/minitrek2.5a1c6f4ae58626199401.jpg",
     "static/media/kayakGlaciar3.jpg": "/static/media/kayakGlaciar3.ace9538e820f02f5dd20.jpg",
+    "static/media/safariAzul2.jpg": "/static/media/safariAzul2.bfe0e7f26c71bb18802a.jpg",
+    "static/media/minitrek.jpg": "/static/media/minitrek.099bc84dc3f776c214e0.jpg",
     "static/media/pasarelas3.jpg": "/static/media/pasarelas3.21a9a8c8425e8ae5b3fb.jpg",
     "static/media/pasarelas1.jpg": "/static/media/pasarelas1.fec7a935f0c4b90510ee.jpg",
     "index.html": "/index.html",
     "main.5a0f24a8.css.map": "/static/css/main.5a0f24a8.css.map",
-    "main.1e13ab11.js.map": "/static/js/main.1e13ab11.js.map"
+    "main.16de4277.js.map": "/static/js/main.16de4277.js.map"
   },
   "entrypoints": [
     "static/css/main.5a0f24a8.css",
-    "static/js/main.1e13ab11.js"
+    "static/js/main.16de4277.js"
   ]
 }
