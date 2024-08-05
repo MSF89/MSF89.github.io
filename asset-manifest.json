@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.5a0f24a8.css",
-    "main.js": "/static/js/main.45e036a3.js",
+    "main.js": "/static/js/main.3b18c4c0.js",
     "static/media/lagunaTorre.jpg": "/static/media/lagunaTorre.55438d457f8dfe855f6d.jpg",
     "static/media/cerroFrias2.jpg": "/static/media/cerroFrias2.0738c51b800b810e7a9c.jpg",
     "static/media/cerroFrias1.jpg": "/static/media/cerroFrias1.6e842bb5e2af814ee6aa.jpg",
     "static/media/cerroFrias3.jpg": "/static/media/cerroFrias3.1b20e4b210780b13be69.jpg",
     "static/media/cerroHuyliche1.jpg": "/static/media/cerroHuyliche1.93bb7e12878c44f95301.jpg",
+    "static/media/25demayo3.jpg": "/static/media/25demayo3.293c86202aab268d4947.jpg",
     "static/media/torresDelPaine.jpg": "/static/media/torresDelPaine.428a67da51f5aadc4144.jpg",
     "static/media/calafateNight3.jpg": "/static/media/calafateNight3.b5d798198097724fcdd2.jpg",
     "static/media/balcones2.jpg": "/static/media/balcones2.d2036512a377f1432f0a.jpg",
@@ -47,9 +48,11 @@
     "static/media/lagunaDeLosTres2.jpg": "/static/media/lagunaDeLosTres2.010dd0116782ca3ab30d.jpg",
     "static/media/mayoSpirit1.jpg": "/static/media/mayoSpirit1.19a628d560f07ad7d83f.jpg",
     "static/media/kayakGlaciar1.jpg": "/static/media/kayakGlaciar1.5d4ef33d2c74c4204c0a.jpg",
+    "static/media/25demayo2.jpg": "/static/media/25demayo2.e49f0b3df9bcf7a4ac3c.jpg",
     "static/media/kayak.jpg": "/static/media/kayak.48bc7bc240320d9be09e.jpg",
     "static/media/balcones.jpg": "/static/media/balcones.9ebcff988a3db5ffb2ce.jpg",
     "static/media/cityWalichu1.jpg": "/static/media/cityWalichu1.a0eb4f7e474c38551b26.jpg",
+    "static/media/25demayo.jpg": "/static/media/25demayo.4a31e29391e596fac9f3.jpg",
     "static/media/calafateNight2.jpg": "/static/media/calafateNight2.0228f943c0c61ae85bcc.jpg",
     "static/media/morenoSpirit1.jpg": "/static/media/morenoSpirit1.493b8bca66ca7bf84ca3.jpg",
     "static/media/minitrek1.jpg": "/static/media/minitrek1.a40158f7261f37dfffc9.jpg",
@@ -75,12 +78,13 @@
     "static/media/lagunaDeLosTres.jpg": "/static/media/lagunaDeLosTres.267323312385a878d911.jpg",
     "static/media/lagunaTorre3.jpg": "/static/media/lagunaTorre3.6b689f80bb9eaf1e7597.jpg",
     "static/media/pasarelas1.jpg": "/static/media/pasarelas1.fec7a935f0c4b90510ee.jpg",
+    "static/media/25demayo1.jpg": "/static/media/25demayo1.4d6057e1a16c07eb86fa.jpg",
     "index.html": "/index.html",
     "main.5a0f24a8.css.map": "/static/css/main.5a0f24a8.css.map",
-    "main.45e036a3.js.map": "/static/js/main.45e036a3.js.map"
+    "main.3b18c4c0.js.map": "/static/js/main.3b18c4c0.js.map"
   },
   "entrypoints": [
     "static/css/main.5a0f24a8.css",
-    "static/js/main.45e036a3.js"
+    "static/js/main.3b18c4c0.js"
   ]
 }
