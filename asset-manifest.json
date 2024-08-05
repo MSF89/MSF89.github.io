@@ -1,16 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.5a0f24a8.css",
-    "main.js": "/static/js/main.1d141364.js",
+    "main.js": "/static/js/main.45e036a3.js",
+    "static/media/lagunaTorre.jpg": "/static/media/lagunaTorre.55438d457f8dfe855f6d.jpg",
     "static/media/cerroFrias2.jpg": "/static/media/cerroFrias2.0738c51b800b810e7a9c.jpg",
     "static/media/cerroFrias1.jpg": "/static/media/cerroFrias1.6e842bb5e2af814ee6aa.jpg",
     "static/media/cerroFrias3.jpg": "/static/media/cerroFrias3.1b20e4b210780b13be69.jpg",
     "static/media/cerroHuyliche1.jpg": "/static/media/cerroHuyliche1.93bb7e12878c44f95301.jpg",
+    "static/media/torresDelPaine.jpg": "/static/media/torresDelPaine.428a67da51f5aadc4144.jpg",
     "static/media/calafateNight3.jpg": "/static/media/calafateNight3.b5d798198097724fcdd2.jpg",
     "static/media/balcones2.jpg": "/static/media/balcones2.d2036512a377f1432f0a.jpg",
     "static/media/chalten3.jpg": "/static/media/chalten3.c830968c75e9efdc9086.jpg",
     "static/media/cerroHuyliche.jpg": "/static/media/cerroHuyliche.6fa4ef0877907eb76760.jpg",
     "static/media/mayoSpirit3.jpg": "/static/media/mayoSpirit3.dde80fe55e8cf99cd821.jpg",
+    "static/media/lagunaTorre1.jpg": "/static/media/lagunaTorre1.c7e3d3571e1873580804.jpg",
     "static/media/kayak3.jpg": "/static/media/kayak3.68b98335f4fb6c2aae18.jpg",
     "static/media/mayoSpirit2.jpg": "/static/media/mayoSpirit2.183719f0ebebd6b24e0d.jpg",
     "static/media/punWa.jpg": "/static/media/punWa.445c464b7d89514e3949.jpg",
@@ -24,6 +27,8 @@
     "static/media/chalten.jpg": "/static/media/chalten.9166cc37b0e494644716.jpg",
     "static/media/cerroFrias.jpg": "/static/media/cerroFrias.4cb3f7f68ae238808a23.jpg",
     "static/media/todoGlaciares3.jpg": "/static/media/todoGlaciares3.c9406b2e6f9dc5333130.jpg",
+    "static/media/torresDelPaine1.jpg": "/static/media/torresDelPaine1.f161ad7fe8cf288f94d3.jpg",
+    "static/media/torresDelPaine3.jpg": "/static/media/torresDelPaine3.be2f313f3accdddda928.jpg",
     "static/media/pasarelas.jpg": "/static/media/pasarelas.0040c46e41b976532729.jpg",
     "static/media/balcones1.jpg": "/static/media/balcones1.d9f68669f35a14164509.jpg",
     "static/media/punWa3.jpg": "/static/media/punWa3.1310580611f595bf8d9f.jpg",
@@ -39,6 +44,7 @@
     "static/media/kayakGlaciar.jpg": "/static/media/kayakGlaciar.a49a68fdc8d6f14befde.jpg",
     "static/media/kayak1.jpg": "/static/media/kayak1.6aa7e913b729731b1838.jpg",
     "static/media/cerroHuyliche3.jpg": "/static/media/cerroHuyliche3.9e2fbf8d9328f97dbfdc.jpg",
+    "static/media/lagunaDeLosTres2.jpg": "/static/media/lagunaDeLosTres2.010dd0116782ca3ab30d.jpg",
     "static/media/mayoSpirit1.jpg": "/static/media/mayoSpirit1.19a628d560f07ad7d83f.jpg",
     "static/media/kayakGlaciar1.jpg": "/static/media/kayakGlaciar1.5d4ef33d2c74c4204c0a.jpg",
     "static/media/kayak.jpg": "/static/media/kayak.48bc7bc240320d9be09e.jpg",
@@ -60,14 +66,21 @@
     "static/media/kayakGlaciar3.jpg": "/static/media/kayakGlaciar3.ace9538e820f02f5dd20.jpg",
     "static/media/safariAzul2.jpg": "/static/media/safariAzul2.bfe0e7f26c71bb18802a.jpg",
     "static/media/minitrek.jpg": "/static/media/minitrek.099bc84dc3f776c214e0.jpg",
+    "static/media/torresDelPaine2.jpg": "/static/media/torresDelPaine2.0b2419deef27797a33b0.jpg",
     "static/media/pasarelas3.jpg": "/static/media/pasarelas3.21a9a8c8425e8ae5b3fb.jpg",
+    "static/media/lagunaTorre2.jpg": "/static/media/lagunaTorre2.57854585aa9c7df48539.jpg",
+    "static/media/lagunaDeLosTres3.jpg": "/static/media/lagunaDeLosTres3.975d21e462830daad84b.jpg",
+    "static/media/lagunaDeLosTres4.jpg": "/static/media/lagunaDeLosTres4.90693f3f04f469c2bcbf.jpg",
+    "static/media/lagunaDeLosTres1.jpg": "/static/media/lagunaDeLosTres1.db971835a173f4bec60d.jpg",
+    "static/media/lagunaDeLosTres.jpg": "/static/media/lagunaDeLosTres.267323312385a878d911.jpg",
+    "static/media/lagunaTorre3.jpg": "/static/media/lagunaTorre3.6b689f80bb9eaf1e7597.jpg",
     "static/media/pasarelas1.jpg": "/static/media/pasarelas1.fec7a935f0c4b90510ee.jpg",
     "index.html": "/index.html",
     "main.5a0f24a8.css.map": "/static/css/main.5a0f24a8.css.map",
-    "main.1d141364.js.map": "/static/js/main.1d141364.js.map"
+    "main.45e036a3.js.map": "/static/js/main.45e036a3.js.map"
   },
   "entrypoints": [
     "static/css/main.5a0f24a8.css",
-    "static/js/main.1d141364.js"
+    "static/js/main.45e036a3.js"
   ]
 }
