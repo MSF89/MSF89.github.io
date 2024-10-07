@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.5a0f24a8.css",
-    "main.js": "/static/js/main.24ebf9ac.js",
+    "main.js": "/static/js/main.d79a2754.js",
     "static/media/lagunaTorre.jpg": "/static/media/lagunaTorre.55438d457f8dfe855f6d.jpg",
     "static/media/cerroFrias2.jpg": "/static/media/cerroFrias2.0738c51b800b810e7a9c.jpg",
     "static/media/cerroFrias1.jpg": "/static/media/cerroFrias1.6e842bb5e2af814ee6aa.jpg",
@@ -9,6 +9,8 @@
     "static/media/cerroHuyliche1.jpg": "/static/media/cerroHuyliche1.93bb7e12878c44f95301.jpg",
     "static/media/25demayo3.jpg": "/static/media/25demayo3.293c86202aab268d4947.jpg",
     "static/media/torresDelPaine.jpg": "/static/media/torresDelPaine.428a67da51f5aadc4144.jpg",
+    "static/media/bospe3.jpg": "/static/media/bospe3.50732fd269e4be64453e.jpg",
+    "static/media/bospe.jpg": "/static/media/bospe.bb76eaea80a68c44a92f.jpg",
     "static/media/calafateNight3.jpg": "/static/media/calafateNight3.b5d798198097724fcdd2.jpg",
     "static/media/balcones2.jpg": "/static/media/balcones2.d2036512a377f1432f0a.jpg",
     "static/media/chalten3.jpg": "/static/media/chalten3.c830968c75e9efdc9086.jpg",
@@ -26,6 +28,7 @@
     "static/media/mayoSpirit.jpg": "/static/media/mayoSpirit.05a13a9fc548445a2e4f.jpg",
     "static/media/kayak2.jpg": "/static/media/kayak2.16347dd79a9233ad18de.jpg",
     "static/media/chalten.jpg": "/static/media/chalten.9166cc37b0e494644716.jpg",
+    "static/media/bospe1.jpg": "/static/media/bospe1.c70cdd9345133fe34767.jpg",
     "static/media/cerroFrias.jpg": "/static/media/cerroFrias.4cb3f7f68ae238808a23.jpg",
     "static/media/todoGlaciares3.jpg": "/static/media/todoGlaciares3.c9406b2e6f9dc5333130.jpg",
     "static/media/torresDelPaine1.jpg": "/static/media/torresDelPaine1.f161ad7fe8cf288f94d3.jpg",
@@ -41,6 +44,7 @@
     "static/media/cityWalichu.jpg": "/static/media/cityWalichu.d17e9f3e805d4f841f4b.jpg",
     "static/media/cityWalichu3.jpg": "/static/media/cityWalichu3.ab37bec66c0af89eaf88.jpg",
     "static/media/Logo.jpg": "/static/media/Logo.7568b44a67cf080ac7d1.jpg",
+    "static/media/bospe2.jpg": "/static/media/bospe2.34de6a78ecaa7eeac152.jpg",
     "static/media/chalten1.jpg": "/static/media/chalten1.f9797212102952ab31f9.jpg",
     "static/media/kayakGlaciar.jpg": "/static/media/kayakGlaciar.a49a68fdc8d6f14befde.jpg",
     "static/media/kayak1.jpg": "/static/media/kayak1.6aa7e913b729731b1838.jpg",
@@ -81,10 +85,10 @@
     "static/media/25demayo1.jpg": "/static/media/25demayo1.4d6057e1a16c07eb86fa.jpg",
     "index.html": "/index.html",
     "main.5a0f24a8.css.map": "/static/css/main.5a0f24a8.css.map",
-    "main.24ebf9ac.js.map": "/static/js/main.24ebf9ac.js.map"
+    "main.d79a2754.js.map": "/static/js/main.d79a2754.js.map"
   },
   "entrypoints": [
     "static/css/main.5a0f24a8.css",
-    "static/js/main.24ebf9ac.js"
+    "static/js/main.d79a2754.js"
   ]
 }
