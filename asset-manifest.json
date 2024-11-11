@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.5a0f24a8.css",
-    "main.js": "/static/js/main.d79a2754.js",
+    "main.js": "/static/js/main.2ad82e65.js",
     "static/media/lagunaTorre.jpg": "/static/media/lagunaTorre.55438d457f8dfe855f6d.jpg",
     "static/media/cerroFrias2.jpg": "/static/media/cerroFrias2.0738c51b800b810e7a9c.jpg",
     "static/media/cerroFrias1.jpg": "/static/media/cerroFrias1.6e842bb5e2af814ee6aa.jpg",
@@ -85,10 +85,10 @@
     "static/media/25demayo1.jpg": "/static/media/25demayo1.4d6057e1a16c07eb86fa.jpg",
     "index.html": "/index.html",
     "main.5a0f24a8.css.map": "/static/css/main.5a0f24a8.css.map",
-    "main.d79a2754.js.map": "/static/js/main.d79a2754.js.map"
+    "main.2ad82e65.js.map": "/static/js/main.2ad82e65.js.map"
   },
   "entrypoints": [
     "static/css/main.5a0f24a8.css",
-    "static/js/main.d79a2754.js"
+    "static/js/main.2ad82e65.js"
   ]
 }
