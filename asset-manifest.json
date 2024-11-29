@@ -1,12 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.5a0f24a8.css",
-    "main.js": "/static/js/main.a637b373.js",
+    "main.js": "/static/js/main.b5f19e5e.js",
     "static/media/lagunaTorre.jpg": "/static/media/lagunaTorre.55438d457f8dfe855f6d.jpg",
     "static/media/cerroFrias2.jpg": "/static/media/cerroFrias2.0738c51b800b810e7a9c.jpg",
+    "static/media/cabal.jpg": "/static/media/cabal.b4a450838002cf75aaa2.jpg",
     "static/media/cerroFrias1.jpg": "/static/media/cerroFrias1.6e842bb5e2af814ee6aa.jpg",
     "static/media/cerroFrias3.jpg": "/static/media/cerroFrias3.1b20e4b210780b13be69.jpg",
+    "static/media/cabal2.jpg": "/static/media/cabal2.830a0321f8c1e954d719.jpg",
+    "static/media/cabal1.jpg": "/static/media/cabal1.1099caac2616f2d9f126.jpg",
     "static/media/cerroHuyliche1.jpg": "/static/media/cerroHuyliche1.93bb7e12878c44f95301.jpg",
+    "static/media/cabal3.jpg": "/static/media/cabal3.ff6137c1876e68c0f2c3.jpg",
     "static/media/25demayo3.jpg": "/static/media/25demayo3.293c86202aab268d4947.jpg",
     "static/media/torresDelPaine.jpg": "/static/media/torresDelPaine.428a67da51f5aadc4144.jpg",
     "static/media/bospe3.jpg": "/static/media/bospe3.50732fd269e4be64453e.jpg",
@@ -41,6 +45,7 @@
     "static/media/cityWalichu2.jpg": "/static/media/cityWalichu2.86a41b220fa475376f8e.jpg",
     "static/media/morenoSpirit.jpg": "/static/media/morenoSpirit.1893cfe91ab36547f97b.jpg",
     "static/media/balcones3.jpg": "/static/media/balcones3.36d273c312147f08fbf0.jpg",
+    "static/media/safariEx1.jpg": "/static/media/safariEx1.305cbc3b4998612cbf05.jpg",
     "static/media/cityWalichu.jpg": "/static/media/cityWalichu.d17e9f3e805d4f841f4b.jpg",
     "static/media/cityWalichu3.jpg": "/static/media/cityWalichu3.ab37bec66c0af89eaf88.jpg",
     "static/media/Logo.jpg": "/static/media/Logo.7568b44a67cf080ac7d1.jpg",
@@ -63,16 +68,19 @@
     "static/media/punWa1.jpg": "/static/media/punWa1.ef5ea2298edf4d880a05.jpg",
     "static/media/safariAzul3.jpg": "/static/media/safariAzul3.ec760fe7a3726b2c1d17.jpg",
     "static/media/calafateNight1.jpg": "/static/media/calafateNight1.65b43f15ecef725869e3.jpg",
+    "static/media/safariEx3.jpg": "/static/media/safariEx3.34c7def3c1b6f236dacd.jpg",
     "static/media/calafateNight.jpg": "/static/media/calafateNight.b8229e738931a6aa3dd2.jpg",
     "static/media/todoGlaciares1.jpg": "/static/media/todoGlaciares1.7db658474ee444d223ff.jpg",
     "static/media/safariAzul.jpg": "/static/media/safariAzul.a802cc44e74bc55ebc1a.jpg",
     "static/media/kayakGlaciar2.jpg": "/static/media/kayakGlaciar2.640ce38eb27365a93c01.jpg",
     "static/media/minitrek3.jpg": "/static/media/minitrek3.086e3437ecec1e665027.jpg",
+    "static/media/safariEx.jpg": "/static/media/safariEx.2c2fa2869b4e61149101.jpg",
     "static/media/terminalCalafate.jpg": "/static/media/terminalCalafate.e0650dd2e4103d1dddf2.jpg",
     "static/media/minitrek2.jpg": "/static/media/minitrek2.5a1c6f4ae58626199401.jpg",
     "static/media/kayakGlaciar3.jpg": "/static/media/kayakGlaciar3.ace9538e820f02f5dd20.jpg",
     "static/media/safariAzul2.jpg": "/static/media/safariAzul2.bfe0e7f26c71bb18802a.jpg",
     "static/media/minitrek.jpg": "/static/media/minitrek.099bc84dc3f776c214e0.jpg",
+    "static/media/safariEx2.jpg": "/static/media/safariEx2.0d6e4fc80c1cdf8ef6a6.jpg",
     "static/media/torresDelPaine2.jpg": "/static/media/torresDelPaine2.0b2419deef27797a33b0.jpg",
     "static/media/pasarelas3.jpg": "/static/media/pasarelas3.21a9a8c8425e8ae5b3fb.jpg",
     "static/media/lagunaTorre2.jpg": "/static/media/lagunaTorre2.57854585aa9c7df48539.jpg",
@@ -85,10 +93,10 @@
     "static/media/25demayo1.jpg": "/static/media/25demayo1.4d6057e1a16c07eb86fa.jpg",
     "index.html": "/index.html",
     "main.5a0f24a8.css.map": "/static/css/main.5a0f24a8.css.map",
-    "main.a637b373.js.map": "/static/js/main.a637b373.js.map"
+    "main.b5f19e5e.js.map": "/static/js/main.b5f19e5e.js.map"
   },
   "entrypoints": [
     "static/css/main.5a0f24a8.css",
-    "static/js/main.a637b373.js"
+    "static/js/main.b5f19e5e.js"
   ]
 }
