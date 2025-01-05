@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.5a0f24a8.css",
-    "main.js": "/static/js/main.b5f19e5e.js",
+    "main.js": "/static/js/main.752ac08e.js",
     "static/media/lagunaTorre.jpg": "/static/media/lagunaTorre.55438d457f8dfe855f6d.jpg",
     "static/media/cerroFrias2.jpg": "/static/media/cerroFrias2.0738c51b800b810e7a9c.jpg",
     "static/media/cabal.jpg": "/static/media/cabal.b4a450838002cf75aaa2.jpg",
@@ -10,8 +10,10 @@
     "static/media/cabal2.jpg": "/static/media/cabal2.830a0321f8c1e954d719.jpg",
     "static/media/cabal1.jpg": "/static/media/cabal1.1099caac2616f2d9f126.jpg",
     "static/media/cerroHuyliche1.jpg": "/static/media/cerroHuyliche1.93bb7e12878c44f95301.jpg",
+    "static/media/Alterna2.jpg": "/static/media/Alterna2.16c01c41282b6fbc5525.jpg",
     "static/media/cabal3.jpg": "/static/media/cabal3.ff6137c1876e68c0f2c3.jpg",
     "static/media/25demayo3.jpg": "/static/media/25demayo3.293c86202aab268d4947.jpg",
+    "static/media/Alterna3.jpg": "/static/media/Alterna3.9c6d1c21b49e1d7a0097.jpg",
     "static/media/torresDelPaine.jpg": "/static/media/torresDelPaine.428a67da51f5aadc4144.jpg",
     "static/media/bospe3.jpg": "/static/media/bospe3.50732fd269e4be64453e.jpg",
     "static/media/bospe.jpg": "/static/media/bospe.bb76eaea80a68c44a92f.jpg",
@@ -35,6 +37,7 @@
     "static/media/bospe1.jpg": "/static/media/bospe1.c70cdd9345133fe34767.jpg",
     "static/media/cerroFrias.jpg": "/static/media/cerroFrias.4cb3f7f68ae238808a23.jpg",
     "static/media/todoGlaciares3.jpg": "/static/media/todoGlaciares3.c9406b2e6f9dc5333130.jpg",
+    "static/media/Alterna.jpg": "/static/media/Alterna.2ad44a6a38b3b8ac16df.jpg",
     "static/media/torresDelPaine1.jpg": "/static/media/torresDelPaine1.f161ad7fe8cf288f94d3.jpg",
     "static/media/torresDelPaine3.jpg": "/static/media/torresDelPaine3.be2f313f3accdddda928.jpg",
     "static/media/pasarelas.jpg": "/static/media/pasarelas.0040c46e41b976532729.jpg",
@@ -53,6 +56,7 @@
     "static/media/chalten1.jpg": "/static/media/chalten1.f9797212102952ab31f9.jpg",
     "static/media/kayakGlaciar.jpg": "/static/media/kayakGlaciar.a49a68fdc8d6f14befde.jpg",
     "static/media/kayak1.jpg": "/static/media/kayak1.6aa7e913b729731b1838.jpg",
+    "static/media/Alterna1.jpg": "/static/media/Alterna1.3fa59e108ca464ff0347.jpg",
     "static/media/cerroHuyliche3.jpg": "/static/media/cerroHuyliche3.9e2fbf8d9328f97dbfdc.jpg",
     "static/media/lagunaDeLosTres2.jpg": "/static/media/lagunaDeLosTres2.010dd0116782ca3ab30d.jpg",
     "static/media/mayoSpirit1.jpg": "/static/media/mayoSpirit1.19a628d560f07ad7d83f.jpg",
@@ -93,10 +97,10 @@
     "static/media/25demayo1.jpg": "/static/media/25demayo1.4d6057e1a16c07eb86fa.jpg",
     "index.html": "/index.html",
     "main.5a0f24a8.css.map": "/static/css/main.5a0f24a8.css.map",
-    "main.b5f19e5e.js.map": "/static/js/main.b5f19e5e.js.map"
+    "main.752ac08e.js.map": "/static/js/main.752ac08e.js.map"
   },
   "entrypoints": [
     "static/css/main.5a0f24a8.css",
-    "static/js/main.b5f19e5e.js"
+    "static/js/main.752ac08e.js"
   ]
 }
